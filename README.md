@@ -5,9 +5,6 @@
 
 한겨레 × 재단법인 숲과나눔 「AI와 함께하는 교통문제 해결을 위한 데이터 분석 공모전」(2026) 분석 코드·원자료 처리·시각화 결과 저장소입니다. 3개의 Jupyter Notebook(`.ipynb`)을 통해 지형 경사도, 대중교통 인프라 및 승하차 수요, 고령 생활인구 분포를 입체적으로 분석하고 시각화합니다.
 
-<img width="521" height="382" alt="서울시 250m 격자 3D 표고 분표" src="https://github.com/user-attachments/assets/27bcf1ba-f04f-47b9-9437-e363590afeed" />
-<img width="507" height="407" alt="간격 300m 이내이나 급경사 및 계단으로 보존된 언덕 정류장" src="https://github.com/user-attachments/assets/c9145eb2-72eb-43ad-9148-4f8cc9d3b40d" />
-
 
 ---
 
